@@ -1,0 +1,22 @@
+
+# Java & Spring Boot
+target/
+*.iml
+
+# Node.js & React
+node_modules/
+build/
+
+# Logs
+*.log
+
+# Mac / Linux / Windows junk
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+
+# Docker
+*.env
